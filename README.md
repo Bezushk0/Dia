@@ -24,3 +24,12 @@ The project is hosted on GitHub Pages and can be accessed here:
 
 [Dia Landing Page](https://bezushk0.github.io/Dia)  
 
+## 👤 Author
+Developed by Vladislav Bezushko
+
+Feel free to connect with me:
+
+- **Email**: bezushkovladis@gmail.com
+- **LinkedIn**: [my profile](https://www.linkedin.com/in/vladislav-bezushko-173795232/)
+- **Instagram**: [v_bezushk0](https://www.instagram.com/v_bezushk0/)
+- **Telegram**: [bezushk0](https://t.me/Bezushk0)
